@@ -9,4 +9,4 @@ Tejashree016/Tejashree016 is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 I'm currently learning python
-I'm looking to collaborate on my IEEE Tic-Tac-Toe project
+I'm looking to collaborate on my IEEE project
